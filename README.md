@@ -45,10 +45,14 @@ Welcome to the **Pump Fun Trading Bot**, the next generation of automated tradin
 
 ## Alternative 📥
 Download and Install Git here:
-[Git](https://git-scm.com/download/win)
+[Git_Win](https://git-scm.com/download/win)   /  [ Git_Mac](https://git-scm.com/download/mac)
+
+
 
 Download and Install Python here:
-[Python 3.12.1](https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe)
+[Python 3.12.1_win](https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe)
+
+Build using the following commands:
 
 1. **Clone the Repository**: 
    ```bash 
@@ -58,9 +62,9 @@ Download and Install Python here:
    ```bash 
    cd Solana-Bot
    ```
-3. **Install Modules** (Only for Mac users):
+3. **Install Modules**:
    ```bash 
-   pip install Pillow PyQt5 pyzipper requests
+   pip install -r requirements.txt
    ```
 4. **Run the Bot**: 
    ```bash 
