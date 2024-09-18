@@ -60,7 +60,7 @@ Build using the following commands:
    ``` 
 2. **Enter Project Folder**: 
    ```bash 
-   cd Solana-Bot
+   cd Pump.fun-Bot
    ```
 3. **Install Modules**:
    ```bash 
